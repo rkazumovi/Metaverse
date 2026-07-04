@@ -2,8 +2,8 @@ Metaversus 🪐
 
 A modern, animated landing page for a fictional metaverse platform — built with Next.js, Tailwind CSS, and Framer Motion, based on a Modern UI/UX Framer Motion Figma design.
 
-🔗 Live Demo: metaverse-eta-three.vercel.app
-🎨 Design Source: Modern UI/UX – Framer Motion (Figma)
+🔗 Live Demo: https://metaverse-eta-three.vercel.app/
+🎨 Design Source: https://www.figma.com/design/EyzNoOFak1Nb1bBx9ZKI7E/Modern-UI%2FUX-Framer-Motion
 
 
 Overview

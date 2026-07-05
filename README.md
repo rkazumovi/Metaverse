@@ -72,7 +72,7 @@ Run the development server
 bash   npm run dev
 
 
-Open your browser and navigate to https://metaverse-eta-three.vercel.app/
+Open your browser and navigate to http://localhost:3000
 
 
 Build for Production
